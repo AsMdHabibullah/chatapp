@@ -1,1 +1,2 @@
-# chatapp
+# Chatapp client app
+## Stack: NodeJs, ReactJs, NextJs
