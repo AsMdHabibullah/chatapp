@@ -1,2 +1,2 @@
-# Chatapp server
+# Chatapp server app
 ## Stack: NodeJs, ExpressJs, WebSoket, MongoDB
